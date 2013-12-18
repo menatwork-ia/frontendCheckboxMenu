@@ -1,7 +1,7 @@
 {
 	"name":"menatwork/extendedcheckboxmenu",
 	"description":"Include the select all checkbox for frontend checkbox widgets",
-	"keywords":["frontend","preview","member"],
+	"keywords":["frontend","checkbox","forms"],
 	"type":"contao-module",
 	"homepage":"http://www.men-at-work.de",
 	"license":"LGPL-3.0+",
