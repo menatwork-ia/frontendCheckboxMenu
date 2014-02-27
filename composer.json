@@ -1,5 +1,5 @@
 {
-	"name":"menatwork/extendedcheckboxmenu",
+	"name":"menatwork/frontendcheckboxmenu",
 	"description":"Include the select all checkbox for frontend checkbox widgets",
 	"keywords":["frontend","checkbox","forms"],
 	"type":"contao-module",
@@ -21,9 +21,9 @@
 	],
 	"support":{
 		"email":"contao@men-at-work.de",
-		"issues":"https://github.com/menatwork-ia/extendedCheckboxMenu/issues",
+		"issues":"https://github.com/menatwork-ia/frontendCheckboxMenu/issues",
 		"irc":"irc://irc.freenode.org/contao.dev",
-		"source":"https://github.com/menatwork-ia/extendedCheckboxMenu"
+		"source":"https://github.com/menatwork-ia/frontendCheckboxMenu"
 	},
 	"require":{
 		"php":">=5.3",
@@ -36,7 +36,7 @@
 	"extra":{
 		"contao":{
 			"sources":{
-				"system/modules/extendedCheckboxMenu":"system/modules/extendedCheckboxMenu"
+				"system/modules/frontendCheckboxMenu":"system/modules/frontendCheckboxMenu"
 			}
 		}
 	}

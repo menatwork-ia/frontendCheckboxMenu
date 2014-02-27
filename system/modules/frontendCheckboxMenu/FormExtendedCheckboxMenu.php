@@ -154,7 +154,7 @@ class FormExtendedCheckboxMenu extends \Widget
 		if($this->showAddAll)
 		{
 			// Add JS.
-			$GLOBALS['TL_JAVASCRIPT']['extendedCheckboxMenu'] = 'system/modules/extendedCheckboxMenu/html/extendedCheckboxMenu.js';
+			$GLOBALS['TL_JAVASCRIPT']['frontendCheckboxMenu'] = 'system/modules/frontendCheckboxMenu/html/frontendCheckboxMenu.js';
 			
 			// Build basic string.
 			$strBase = '<span class="check_all">';
