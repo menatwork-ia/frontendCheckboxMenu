@@ -3,8 +3,8 @@
 /**
  * Contao Open Source CMS
  *
- * @copyright  MEN AT WORK 2013
- * @package    extendedCheckboxMenu
+ * @copyright  MEN AT WORK 2014
+ * @package    frontendCheckboxMenu
  * @license    GNU/LGPL
  * @filesource
  */
