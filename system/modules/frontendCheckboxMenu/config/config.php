@@ -15,9 +15,9 @@
 
 if(isset($GLOBALS['TL_FFL']['frontendCheckboxMenu']))
 {
-	trigger_error('There is allready a frontendCheckboxMenu - throw by frontendCheckboxMenu', E_NOTICE);
+	trigger_error('There is already a frontendCheckboxMenu - throw by frontendCheckboxMenu', E_NOTICE);
 }
 else
 {
-	$GLOBALS['TL_FFL']['frontendCheckboxMenu'] = 'FormExtendedCheckboxMenu';
+	$GLOBALS['TL_FFL']['frontendCheckboxMenu'] = 'FrontendCheckboxMenu';
 }

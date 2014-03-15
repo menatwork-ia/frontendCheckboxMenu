@@ -3,19 +3,15 @@
     <body>
       <trans-unit id="FFL.frontendCheckboxMenu.0">
         <source>Extended checkbox menu</source>
-        <target>Erweitertes Checkbox-Menü</target>
       </trans-unit>
       <trans-unit id="FFL.frontendCheckboxMenu.1">
         <source>A list of multiple options from which any can be selected.</source>
-        <target>Eine Liste mehrerer Optionen, von denen beliebig viele ausgewählt werden können.</target>
       </trans-unit>
       <trans-unit id="tl_form_field.showAddAll.0">
         <source>Show "Select all" checkbox</source>
-        <target>"Alle auswählen" Checkbox einblenden</target>
       </trans-unit>
       <trans-unit id="tl_form_field.showAddAll.1">
         <source>Here you can choose to show a "Select all" checkbox.</source>
-        <target>Hier können Sie auswählen ob eine "Alle auswählen" Checkbox angezeigt werden soll.</target>
       </trans-unit>
     </body>
   </file>

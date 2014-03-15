@@ -15,7 +15,7 @@
  */
 ClassLoader::addClasses(array
 (
-	'FormExtendedCheckboxMenu' => 'system/modules/frontendCheckboxMenu/FormExtendedCheckboxMenu.php',
+	'FrontendCheckboxMenu' => 'system/modules/frontendCheckboxMenu/FrontendCheckboxMenu.php',
 ));
 
 /**
@@ -23,5 +23,5 @@ ClassLoader::addClasses(array
  */
 TemplateLoader::addFiles(array
 (	
-	'form_extended_checkbox_menu' => 'system/modules/frontendCheckboxMenu/templates/form_extended_checkbox_menu',
+	'frontend_heckbox_menu' => 'system/modules/frontendCheckboxMenu/templates/frontend_heckbox_menu',
 ));
